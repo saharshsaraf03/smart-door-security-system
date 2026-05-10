@@ -1,0 +1,7 @@
+opencv-python
+boto3
+python-telegram-bot
+flask
+Pillow
+python-dotenv
+requests

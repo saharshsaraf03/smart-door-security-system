@@ -1,0 +1,9 @@
+.env
+temp/
+known_faces/
+__pycache__/
+*.pyc
+*.jpg
+*.jpeg
+*.png
+test.jpg
