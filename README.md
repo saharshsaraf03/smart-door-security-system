@@ -18,22 +18,6 @@ A fully functional hybrid edge-cloud IoT security system that:
 
 ---
 
-## Project Photos
-
-### Hardware Setup
-![Hardware Setup](images/hardware.jpg)
-
-### System Running
-![Terminal Output](images/terminal.jpg)
-
-### Live Dashboard
-![Dashboard](images/dashboard.jpg)
-
-### AWS S3 Cloud Storage
-![AWS S3](images/s3.png)
-
----
-
 ## System Architecture
 Motion Detected (OpenCV)
 ↓
@@ -169,6 +153,22 @@ smart-door/
 - Native mobile application
 - Live video streaming
 - Visitor analytics with graphs
+
+---
+
+## Project Photos
+
+### Hardware Setup
+![Hardware Setup](images/hardware.jpg)
+
+### System Running
+![Terminal Output](images/terminal.jpg)
+
+### Live Dashboard
+![Dashboard](images/dashboard.jpg)
+
+### AWS S3 Cloud Storage
+![AWS S3](images/s3.png)
 
 ---
 
