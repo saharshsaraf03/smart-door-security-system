@@ -374,7 +374,19 @@ smart-door/
 
 \---
 
+## 📸 Project Photos
 
+### Hardware Setup
+![Hardware Setup](images/hardware.jpg)
+
+### System Running — Terminal Output
+![Terminal Output](images/terminal.jpg)
+
+### Live Web Dashboard
+![Dashboard](images/dashboard.jpg)
+
+### AWS S3 Bucket — Cloud Storage
+![AWS S3 Bucket](images/s3.png)
 
 \## 👨‍💻 Authors
 
